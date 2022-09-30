@@ -22,7 +22,7 @@ This  project of javascript is made from pure HTML,CSS and Javascript.
 
 ## Links
 
-[Link](javascriptmyrockpaperscissor.netlify.app)
+[Link](https://javascriptrockpaperscissor.netlify.app/)
 
 [Linkedin](https://www.linkedin.com/in/pratyush-kesarwani-2b6601171/)
 
